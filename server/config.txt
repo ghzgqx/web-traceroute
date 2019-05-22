@@ -1,0 +1,2 @@
+# 节点名字 "CURL参数" "地址"
+本地节点 "-k -s" "https://127.0.0.1/cgi-bin/lg/traceroute-api.cgi"
